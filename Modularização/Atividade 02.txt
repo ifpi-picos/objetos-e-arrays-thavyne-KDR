@@ -1,0 +1,4 @@
+Nos últimos cinco anos, a modularização em JavaScript evoluiu com a coexistência de dois sistemas principais: CommonJS e Módulos JavaScript (ESM).
+CommonJS, popular no Node.js, usa require() e module.exports e continua sendo amplamente utilizado, especialmente em sistemas legados e bibliotecas antigas. No entanto, sua integração com o JavaScript moderno e com ferramentas de bundling é limitada.
+ESM, introduzido no ECMAScript 6 (ES6), usa import e export e tem se tornado o padrão moderno. Ele é suportado nativamente em navegadores e no Node.js, oferecendo melhor interoperabilidade, desempenho e integração com ferramentas modernas. A adoção de ESM está crescendo, com muitos novos projetos e bibliotecas adotando este padrão devido às suas vantagens sobre CommonJS.
+A tendência é que ESM se torne o padrão dominante, enquanto CommonJS ainda persiste, principalmente em contextos legados.
